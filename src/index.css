@@ -1,0 +1,15 @@
+#root {
+  max-width: 1900px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+body{
+  box-sizing: border-box;
+  width: 100%;
+  background-color:rgba(10, 10, 10, 1);
+  color: white;
+  font-family: 'Lato', 'Satoshi', sans-serif;
+}
+
